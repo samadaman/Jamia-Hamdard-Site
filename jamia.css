@@ -1,0 +1,76 @@
+nav {
+    padding: 10px;
+    display: block;
+        background-color: red; 
+        text-align: center;       
+}
+nav a{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 2px;
+    font-size: large;
+    font-family: 'Raleway', sans-serif;
+}
+        article{
+            
+            background-color: rgb(255, 255, 255);
+            font-family: 'Raleway', sans-serif;
+            font-size: 25px;
+            float: left;
+            width: 740px ;
+            text-align: justify;
+           
+        }
+        
+        .link{
+        color: rgb(4, 137, 186);
+        }
+        aside{
+            padding:0px;
+        float: right;
+        font-family: 'Raleway', sans-serif;
+        font-size: 20px;
+        margin: 40px;   
+        background-color: rgb(241, 208, 168);
+        height: 730px;
+        width: 500px;
+        border: 2px solid black;
+        }
+        .update{
+            display: block;
+        text-align: center;
+        background-color: red;
+        margin: 0px;
+        }
+        .para{
+        float: inline-start;
+        font-size: 29px;
+        
+        }
+        .para a{
+        color: rgb(54, 143, 233);
+        text-decoration: none;
+        padding: 10px;
+        margin: 20px;
+        }
+        .article2{
+        font-size: 29px;
+        font-family: 'Raleway', sans-serif;
+        width: 1200px;
+        }
+        .footer{
+            float: left;
+        background-color: rgba(205, 19, 19, 0.872);
+        height: 60px;
+        width: 100%;
+        }
+        footer a{
+        text-align: center;
+        font-size: 20px;
+        color: white;
+        padding: 10px;
+        text-decoration: none;
+        font-family: 'Raleway', sans-serif;
+        
+        }
